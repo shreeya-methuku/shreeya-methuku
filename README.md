@@ -9,8 +9,10 @@
 ---
 
 ## 💫 About Me
-Hey there! I’m **Shreeya Methuku**, an AI and Machine Learning enthusiast who loves exploring how intelligence, logic, and creativity merge to shape the future of technology.  
+Hey there! I’m **Shreeya Methuku**, an AI and Machine Learning enthusiast who loves exploring how intelligence, logic, and creativity merge to shape the future of technology.
+
 I’m fascinated by **Generative AI**, human–AI collaboration, and how innovation can be both analytical and emotional.  
+
 Curiosity drives everything I do, from learning new tech stacks to finding meaning in every dataset.  
 
 💡 *I believe technology should connect intelligence with understanding.*
